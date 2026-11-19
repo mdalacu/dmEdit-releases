@@ -1,0 +1,44 @@
+dmEdit - End User License Agreement (EULA)
+
+Copyright (c) 2026 Dalacu Marius. All rights reserved.
+https://sites.google.com/site/dmsimpleapps
+
+By downloading, installing or using dmEdit ("the Software") you agree to
+the terms below. If you do not agree, do not install or use it.
+
+1. Licence grant
+   You may download, install and use the Software free of charge, for
+   personal and commercial purposes, on any number of computers.
+
+2. Restrictions
+   You may not:
+   a) redistribute, sell, rent, lease or sublicense the Software, or make
+      it available for download from any place other than its official
+      channels (the releases of https://github.com/mdalacu/dmEdit-releases,
+      the Windows Package Manager (winget) and the Snap Store, which
+      obtain it from those releases);
+   b) modify, decompile, disassemble or reverse engineer the Software,
+      except to the extent that applicable law expressly permits it;
+   c) remove or alter any copyright notice in the Software.
+
+3. Ownership
+   The Software is licensed, not sold. Dalacu Marius keeps all rights,
+   title and interest in it, including all intellectual property rights.
+
+4. No warranty
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+
+5. Limitation of liability
+   IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, INCLUDING LOSS OF DATA, ARISING FROM, OUT OF OR IN CONNECTION
+   WITH THE SOFTWARE OR ITS USE, TO THE EXTENT PERMITTED BY APPLICABLE LAW.
+
+6. Termination
+   This licence ends automatically if you break any of its terms. You must
+   then stop using the Software and delete every copy you have.
+
+7. Versions
+   Each version of the Software is governed by the licence published with
+   it. Future versions may be released under different terms.
